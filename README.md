@@ -7,6 +7,7 @@
   GROQ_API_KEY
 - Run Cell by Cell and wait for the Output
 - Wait for the Gradio add to load
+- Attached "RAGBench - CustomerQA demo.mov" to run CustomerQA domain.
 
 
 # RGB
