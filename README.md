@@ -1,4 +1,8 @@
-# iiith_aiml
+# RAGBench
+- Download the RAGBench.ipynb file
+- Upload it to Google Colab.
+- Run Cell by Cell and wait for the Output
+- Wait for the Gradio add to load
 
 
 # RGB
