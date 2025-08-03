@@ -1,6 +1,10 @@
 # RAGBench
 - Download the RAGBench.ipynb file
-- Upload it to Google Colab.
+- Upload it to Google Colab
+- Add .env file with the below secrets
+  QDRANT_API_KEY
+  OPENAI_API_KEY
+  GROQ_API_KEY
 - Run Cell by Cell and wait for the Output
 - Wait for the Gradio add to load
 
